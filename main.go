@@ -55,7 +55,100 @@ func main() {
 	// relationalOperators()
 
 	//Logical Operators - Constant & Operators - Sesi 1
-	logicalOperators()
+	// logicalOperators()
+
+	//If Else - Conditions - Sesi 2
+	// ifElse()
+
+	//Temporary Variable - Conditions - Sesi 2
+	// temporaryVariable()
+
+	//Switch - Conditions - Sesi 2
+	// switchCondition()
+
+	//Switch Witch Relational Condition - Conditions - Sesi 2
+	// switchWithRelationalCondition()
+
+	//Switch(fallthrough keyword) - Conditions - Sesi 2
+	// switchFallthroughKeyword()
+
+	//Nested Condition - Conditions - Sesi 2
+	// nestedCondition()
+
+	//Loopings First Way - Loopings - Sesi 2
+	// loopingFirstWay()
+
+	//Loopings Seconds Way - Loopings - Sesi 2
+	// loopingSecondWay()
+
+	//Looping Third Ways - Loopings - Sesi 2
+	// loopingThirdWay()
+
+	//Looping(break and continue keyword) - Loopings - Sesi 2
+	// loopingWithBreakAndContinue()
+
+	//Nested Looping - Loopings - Sesi 2
+	// nestedLoopings()
+
+	//Loopings(label) - Loopings - Sesi 2
+	// loopingsLabel()
+
+	//Array - Array - Sesi 2
+	// simpleArrays()
+
+	//Modify Array - Array - Sesi 2
+	// modifyArrays()
+
+	//Array (Loop Through Elements) - Array - Sesi 2
+	// loopArrays()
+
+	//Array (Multidimensional Array) - Array - Sesi 2
+	// multidimensionalArrays()
+
+	//Slice (make function) - Slice - Sesi 2
+	// implementSlice()
+
+	//Slice (add index) - Slice - Sesi 2
+	// accessIndexSlice()
+
+	//Slice (append function) - Slice - Sesi 2
+	// appendSlice()
+
+	//Slice (append function with ellipsis) - Slice - Sesi 2
+	// appendSliceWithEllipsis()
+
+	//Slice (Copy Function) - Slice - Sesi 2
+	// sliceWithCopy()
+
+	//Slice (Slicing) - Slice - Sesi 2
+	// slicingSlice()
+
+	//Slice (Backing Array) - Slice - Sesi 2
+	// sliceBackingArray()
+
+	//Slice (Cap Function) - Slice - Sesi 2
+	// sliceCheckCapAndLen()
+
+	//Slice (Creating a new backing array) - Slice - Sesi 2
+	// sliceNewBackingArray()
+
+	//Map - Map - Sesi 2
+	// mapPersonOne()
+
+	//Map - Map = Sesi 2
+	// mapPersonTwo()
+
+	//Map (Looping with Map) - Map - Sesi 2
+	// mapPersonThree()
+
+	//Map (Deleting Value) - Map - Sesi 2
+	// deleteMapValue()
+
+	//Map (Detecting Map Value) - Map - Sesi 2
+	// detectingMapValue()
+
+	//Map (Combining slice with Map) - Map - Sesi 2
+	combiningMapWithSlice()
 
 }
 
